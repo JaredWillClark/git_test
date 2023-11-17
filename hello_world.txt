@@ -1,0 +1,96 @@
+Some useful Command Line Interface (CLI) commands
+
+    cd
+
+    cd ..
+
+    cd ~
+    
+    pwd
+
+    ls
+
+    ls -l
+
+    ls -f
+
+    ls -a
+
+    mkdir
+
+    touch
+
+    rm
+
+    rm -r
+
+    find
+
+    man
+
+    cat
+
+    sudo
+
+    sudo apt
+
+    sudo apt update
+
+    sudo apt upgrade
+
+    code
+
+    code <file_name>
+
+    firefox
+
+
+Some useful VS Code Shortcuts:
+
+    Ctrl + Shift + E = swap to Explorer panel
+
+    Ctrl + Shift + P = Search bar
+
+    Ctrl + ` = Open Terminal in VS Code
+
+    Ctrl + B = toggle left panel visibility 
+
+
+Some useful GitHub Shortcuts
+
+    git config --global init.defaultBranch main
+    
+    git init
+
+    git clone <SSH_from_GitHub_repository>
+
+    git <directory_name>
+    
+    git status
+
+    git remote -v
+
+    git add
+
+    git add .
+    
+    git commit
+
+    git push
+
+
+Stages of Git
+
+    Stash
+    
+    Workspace
+
+    Index (Staging_Area)
+
+    Local Repository
+
+    Upstream Repository (GitHub)
+
+
+    
+
